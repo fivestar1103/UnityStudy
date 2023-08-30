@@ -355,9 +355,11 @@
 -r:"Library/Bee/artifacts/200b0aEDbg.dag/UnityEngine.UI.ref.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.7f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.7f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
-"Assets/Bullet.cs"
-"Assets/BulletSpawner.cs"
-"Assets/PlayerController.cs"
+"Assets/Scripts/Bullet.cs"
+"Assets/Scripts/BulletSpawner.cs"
+"Assets/Scripts/GameManager.cs"
+"Assets/Scripts/PlayerController.cs"
+"Assets/Scripts/Rotator.cs"
 -langversion:9.0
 
 /deterministic
